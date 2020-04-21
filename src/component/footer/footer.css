@@ -1,0 +1,16 @@
+.footer {
+    background: #072255;
+    border-bottom: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    width: 45px;
+    padding: 10px;
+}
+
+.right {
+    flex-grow: 1;
+    color: #fff;
+}

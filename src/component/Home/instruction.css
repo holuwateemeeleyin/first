@@ -1,0 +1,27 @@
+.word {
+   margin: 100px;
+   border: 1.5px solid black ;
+   height: 400px;
+
+}
+
+.center {
+   text-align: center;
+   color:blue;
+}
+.list {
+   font-size: 19px;
+   line-height: 38px;
+}
+
+.right{
+   background: blue;
+   border: none;
+   padding: 10px 32px;
+   
+ }
+
+ .start {
+    color: white;
+    text-decoration: none;
+ }
